@@ -1,3 +1,8 @@
+
+## Lauren Here:
+ 
+(╯°□°）╯︵ ┻━┻
+
 # Git Flow
 
 ## Objectives
@@ -274,3 +279,6 @@ Now you have:
 * [LearnGitBranching](http://pcottle.github.io/learnGitBranching/) - [Introduction Sequence: Branching in Git](http://pcottle.github.io/learnGitBranching/)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/git-flow' title='Git Flow'>Git Flow</a> on Learn.co and start learning to code for free.</p>
+
+
+"added table flip to readme"
